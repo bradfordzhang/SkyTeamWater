@@ -26,10 +26,7 @@ Here are some ideas to get you started:
  - 🌱 I’m currently learning C/C++&Go
  - 📫 How to reach me: 
     - Email: zyc@zyc.name
-    - Telegram: https://t.me/bradfordzhang
  - 😄 Pronouns: He
- - 🙏🏻 Tether/USDT(TRC20): `TFxUf2zQVFeHXYQGyh1jp6T2hEMjZ9q8uq`
- - 🙏🏻 MATIC（Polygon): `0x1176b6ca45E75b6FB4d6AAAd590D5BA84d4cd198`
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bradfordzhang&show_icons=true&theme=radical&count_private=true)
